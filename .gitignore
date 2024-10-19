@@ -1,3 +1,6 @@
 /src/quiz_for_kids/__pycache__
 /src/quiz_for_kids/tex/__pycache__
 /src/quiz_for_kids/linear_system/__pycache__
+/src/dist
+/src/quiz_for_kids.egg-info
+/src/build

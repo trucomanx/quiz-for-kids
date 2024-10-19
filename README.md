@@ -18,7 +18,7 @@ python setup.py sdist
 ## Upload to pypi
 
 ```bash
-cd quiz-for-kids/src
+cd src
 python setup.py sdist bdist_wheel
 twine upload dist/*
 ```
