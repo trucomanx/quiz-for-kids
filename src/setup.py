@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="quiz-for-kids",
-    version="0.1.2",
+    version="0.1.3",
     author="Fernando Pujaico Rivera",
     author_email="fernando.pujaico.rivera@gmail.com",
     description="A fun quiz library for kids",
