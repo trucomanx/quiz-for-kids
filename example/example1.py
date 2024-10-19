@@ -2,9 +2,9 @@
 
 
 # python3 -m venv nome_do_ambiente
-# pip install quiz_for_kids
 # source nome_do_ambiente/bin/activate
-# python3 example.py
+# pip install quiz_for_kids
+# python3 example1.py
 
 import quiz_for_kids as qfk
 
